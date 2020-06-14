@@ -1,0 +1,3 @@
+mssql-jdbc-8.2.2.jre8.jar: Libreria de conexión...
+script.sql: Creación de base de datos en microsoft sql server
+EjemploHilo1.java: Contiene el script original antes de aplicar el hilo
